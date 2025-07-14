@@ -1,5 +1,7 @@
 # Calculator
 
+[Live Demo](https://calculator-vzv6.vercel.app/)
+
 A simple, modern calculator app built with React and Vite.
 
 ## Features
@@ -61,5 +63,3 @@ npm run preview
 - [React](https://react.dev/)
 - [Vite](https://vitejs.dev/)
 
-## License
-MIT
